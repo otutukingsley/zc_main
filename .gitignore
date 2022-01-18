@@ -70,4 +70,10 @@ dist
 *.sln
 *.sw?
 .DS_Store
+<<<<<<< HEAD
 .trash
+=======
+.trash
+
+packages/control/ignore
+>>>>>>> 8d5b4a8ada20e6c31e29d8beca79334d0c343f78

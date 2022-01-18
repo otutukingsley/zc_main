@@ -1,6 +1,6 @@
-# zc_main
+# ZC_MAIN
 
-This is the Zuri Chat frontend built with [ExpressJS](http://expressjs.com/) (Backend) and [React](https://reactjs.org/) (Frontend)
+This is the Zuri Chat Frontend built with [React](https://reactjs.org/) (Frontend)
 
 ## Getting Started.
 

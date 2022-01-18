@@ -4,6 +4,11 @@
 .gitignore
 .prettierignore
 .eslintignore
+<<<<<<< HEAD
+=======
+.yarn/
+.yarnrc
+>>>>>>> 8d5b4a8ada20e6c31e29d8beca79334d0c343f78
 yarn.lock
 yarn-error.log
 package-lock.json
@@ -12,4 +17,8 @@ LICENSE
 coverage
 pnpm-lock.yaml
 **/node_modules/
+<<<<<<< HEAD
 **/dist/
+=======
+**/dist/
+>>>>>>> 8d5b4a8ada20e6c31e29d8beca79334d0c343f78
